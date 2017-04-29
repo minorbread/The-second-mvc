@@ -1,0 +1,10 @@
+{
+	"name" : "MVC Frame",
+	"description" : "PHP Frame",
+	"type" : "Framework",
+	"keywords" : ["second Frame","PHP","PHP Framework"],
+	"require" : {
+		"php" : ">=5.3.0",
+		"filp/whoops" : "*"
+	} 
+}
